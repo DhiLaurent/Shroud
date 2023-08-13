@@ -7,3 +7,9 @@ Página que contem o arquivo em questão contudo com status code de Unauthorized
 
 Acrescentando um /_/ antes do path dos arquivos é possível sua visualização
 ![image](https://github.com/DhiLaurent/Shroud/assets/79476878/6fad610f-b088-4dba-b912-b46ab08615ff)
+
+Utilizando o script
+
+comando: python3 shroud.py https://exemplo.com.br lista.txt
+
+![image](https://github.com/DhiLaurent/Shroud/assets/79476878/a92e5e33-ebab-4882-8061-6bc8bdec8982)
